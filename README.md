@@ -1,0 +1,2 @@
+# GlobalAdsBot
+Discordでグローバルな宣伝を作れるBot
